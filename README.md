@@ -90,7 +90,7 @@ dependencies:
 dependencies:
   flutter_easyrefresh:
     git:
-      url: git://github.com/xuelongqy/flutter_easyrefresh.git
+      url: https://github.com/coding364/flutter_easyrefresh
 ```
 #### 2.在布局文件中添加 EasyreFresh
 ```dart
